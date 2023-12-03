@@ -11,5 +11,9 @@ stored in a separate dispenser.
     ✔️ Accept money and release item
     ❌ Return change from cash register
 
+#IDE & JDK
+    ⚙️ NetBeans 19
+    ⚙️ Java SE Development Kit (JDK) 20.0.20.0
+    
 # Creator
     🧑🏻 Daeuxis
